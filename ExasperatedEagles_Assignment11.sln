@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ExasperatedEagles_Assignment11", "ExasperatedEagles_Assignment11\ExasperatedEagles_Assignment11.pyproj", "{000670F7-0980-4919-9E68-4C1F9FC97C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{000670F7-0980-4919-9E68-4C1F9FC97C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000670F7-0980-4919-9E68-4C1F9FC97C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0834D1A-31ED-49B5-87F7-6401AC99D9AD}
+	EndGlobalSection
+EndGlobal
